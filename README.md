@@ -1,1 +1,1 @@
-# assets
+# Dante Network assets repo.
